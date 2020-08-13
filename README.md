@@ -1,7 +1,8 @@
-This is a simple chatbot in pytorch for a coffee and tea shop.
-Uses NLP techniques, So that questions can be asked differently.
+- This is a simple chatbot in pytorch for a coffee and tea shop.
+- Uses NLP techniques, So that questions can be asked differently.
+- You can use it for other applications also, just modify json file.
 
-> This simply identifies the tag of a question and only uses two hidden layers on very little data.
+> Main work: This simply identifies the tag of a question and only uses two hidden layers on very little data.
 
 Take a look:
 
