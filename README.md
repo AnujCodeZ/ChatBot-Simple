@@ -2,7 +2,7 @@
 - Uses NLP techniques, So that questions can be asked differently.
 - You can use it for other applications also, just modify json file.
 
-> Main work: This simply identifies the tag of a question and only uses two hidden layers on very little data.
+> Main work: This simply identifies the tag of a question, uses only two hidden layers and train on very little data.
 
 Take a look:
 
